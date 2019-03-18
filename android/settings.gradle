@@ -1,0 +1,3 @@
+rootProject.name = 'vox_1446'
+
+include ':app'
